@@ -1,0 +1,150 @@
+@font-face{
+ font-family:McDonalds-Regular;
+ src:url("fuentes/McDonalds-Regular.otf");
+}
+ body{
+	background-color: #F6DE9F;
+	font-family:Arial,Charcoal, sans-serif;
+ }
+h1{
+	
+	color:white; /*cambia el color del texto*/
+	text-align:center; /*centramos el texto*/
+	font-size:25px; /*cambia el tamaño del texto*/
+	background-color:#f94536;
+	margin-left:2%;
+	margin-right:2%;
+	margin-top:40px;
+	margin-bottom;40px;
+	border-radius:15px;
+	box-shadow:3px 3px 5px white;
+	border-bottom:3px 3px 5px white;
+	text-shadow:1px 2px 2px black;
+	font-family:McDonalds-Regular;
+	
+}
+h2{
+	
+	color:#f94536 ;
+	font-size:35px; 
+	margin-left:2%;
+}
+h3{
+	
+	color:#f94536 ;
+	font-size:30px; 
+	margin-left:2%;
+	
+	
+	
+}
+
+p{
+	
+	text-align:justify;
+	margin-left:2%;
+	margin-right:2%;
+	color:#fce541;
+	font-size:20px;
+	line-height:30px;
+	text-shadow:1px 1px 1px black;
+	
+}
+img{
+	
+	margin:auto;
+    box-shadow:3px 3px 2px  white;
+	border-radius:20px;
+	background-color:none;
+}
+table{
+	background-color:#f94536  ;
+	color:#fce541 ;
+	text-shadow:3px 2px 2px black ;
+    margin-left:3%;
+	border-style:double;
+	border-color:#fce541;
+	border-radius:5px;
+	
+	width:40%;
+	margin:auto;
+	border-width:15px;
+	
+}
+ul{
+	text-align:justify;
+	color:#fce541;
+	text-shadow:1px 1px 1px black;
+	font-size:20px;
+	margin-left:3%;
+
+	
+	
+	
+}
+td{
+	border-right-style:solid;
+	/*text-shadow:2px 1px 1px black;*/
+	margin-left:10px:
+	
+	
+	
+}
+ol{
+	text-align:justify;
+	color:#fce541;
+	text-shadow:1px 1px 1px black;
+	font-size:20px;
+	margin-left:3%;
+	
+}
+
+.teolindo{
+    background-color: #f94536;
+	color:black;
+	text-shadow:2px 2px 1px black;
+	border-radius:0px;	
+	margin:none;
+	text-shadow:2px 1px 1px black;
+	border-style:none;
+	width:100%;
+	border-width:15px;
+	
+	
+	
+}
+a:link{
+	margin-bottom:30px;
+	color:black;
+	font-size: 20px;
+	margin-left:2%;
+	text-decoration:none;
+	font-weight:bold;
+	background-color:#f94536;
+	color:#fce541;
+}
+a:visited{
+	color:black;
+	font-size: 20px;
+	margin-left:10%;
+	text-decoration:none;
+	font-weight:bold;
+	color:#fce541;
+}
+
+a:hover{
+	color:black;
+		text-decoration:underline;
+	font-weight:bold;
+		font-size: 22px;
+	color:#fce541;
+}
+.diferente:link{
+	background-color:transparent;
+	color:none;
+}
+
+.cs{
+	
+	display:block;
+}
